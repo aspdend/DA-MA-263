@@ -1,4 +1,4 @@
-# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: Music Assistant 2.6.3
+url: https://github.com/aspdend/ma263-for-ha-DA-2026
+maintainer: aspdend
+
